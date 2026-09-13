@@ -1,0 +1,15 @@
+Upload your image thumbnails, certificates, and profile photo into this directory:
+- profile-placeholder.jpg (Your personal photo)
+- hero-poster.jpg
+- shawarma-podcast.jpg
+- restaurant-food.jpg
+- funforge-games.jpg
+- social-creatives.jpg
+- performance-ads.jpg
+- ai-visuals.jpg
+- cert-google-fundamentals.jpg
+- cert-meta-ads.jpg
+- cert-google-display.jpg
+- cert-google-apps.jpg
+- cert-mobile-marketing.jpg
+- cert-ai-ads.jpg
